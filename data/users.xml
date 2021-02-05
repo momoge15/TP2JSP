@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <id>AMG</id>
+        <login>AMG</login>
+        <lastname>gg</lastname>
+        <firstname>gg</firstname>
+    </user>
+    <user>
+        <id>MSH</id>
+        <login>MSH</login>
+        <lastname>Madou</lastname>
+        <firstname>Silvie</firstname>
+    </user>
+    <user>
+        <id>MG</id>
+        <login>MG</login>
+        <lastname>Maelle</lastname>
+        <firstname>Gaelle</firstname>
+    </user>
+    <user>
+        <id>dhzd</id>
+        <login>dhzd</login>
+        <lastname>AMG</lastname>
+        <firstname>ddh</firstname>
+    </user>
+    <user>
+        <id></id>
+        <login></login>
+        <lastname></lastname>
+        <firstname></firstname>
+    </user>
+    <user>
+        <id></id>
+        <login></login>
+        <lastname></lastname>
+        <firstname></firstname>
+    </user>
+    <user>
+        <id></id>
+        <login></login>
+        <lastname></lastname>
+        <firstname></firstname>
+    </user>
+</users>
